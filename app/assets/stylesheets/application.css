@@ -14,9 +14,10 @@
  *= require_self
  */
 body {
-	padding-top: 40px;
+	padding-top: 50px;
 }
 
 nav .nav-pills {
 	padding-top: 5px;
+	padding-bottom: 2px;
 }
